@@ -1,0 +1,6 @@
+*.db
+FlowTool.VC.db
+FlowTool.VC.VC.opendb
+.vs/*
+obj/*
+bin/*
